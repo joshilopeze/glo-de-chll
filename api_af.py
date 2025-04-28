@@ -4,7 +4,7 @@ import requests
 
 # Configuración de la API de Databricks
 DATABRICKS_URL = "https://adb-2509319697722617.17.azuredatabricks.net/api/2.0/jobs/run-appi"
-DATABRICKS_TOKEN = ###
+DATABRICKS_TOKEN = ### wont allow me to commit and push
 
 def main(req: func.HttpRequest) -> func.HttpResponse:
     try:
