@@ -1,0 +1,4 @@
+pyspark==3.2.1
+pyodbc==4.0.30
+azure-functions==1.11.0
+
